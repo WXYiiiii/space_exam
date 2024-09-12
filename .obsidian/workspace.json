@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a89861d6020c7a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65fc976a9b183a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50e9e7b3a5557421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d6efa5069b6d9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafd1c90008276ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24328c97446c603f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd2e46cd68971b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#验证",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3232e6c6da3f5c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4951a611aa05be23",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f489a4ab9bcfdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc1c2541f4e2aea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dacf644efe9fe38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66c85b9be97576a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c0a6c662b2337da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "3c06781a9836f04a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "50e9e7b3a5557421",
+  "lastOpenFiles": [
+    "tmp/分值.md",
+    "README.md",
+    "tmp",
+    "04_项目中信登/dev_doc/4_py操作excel.md",
+    "中信登daily/2024-09-12.md",
+    "04_项目中信登/dev_doc/1_zipfile测试.md",
+    "04_项目中信登/Todo.md",
+    "01_基础/04_linux.md",
+    "04_项目中信登/dev_doc/3_fetch_many测试.md",
+    "04_项目中信登/dev_doc/2_md5生成大文件的传输标志.md",
+    "中信登daily/2024-09-11.md",
+    "中信登daily/模板.md",
+    "中信登daily/2024-09-10.md",
+    "03_项目/5.民生银行回单系统/04_zuoye/04_new.md",
+    "03_项目/5.民生银行回单系统/04_zuoye/01_whx.md",
+    "03_项目/5.民生银行回单系统/01_脚本/Mypy.md",
+    "01_基础/a02_软件使用/00_软件安装记录.md",
+    "04_项目中信登/my_doc/dsp_doc/03-设计阶段/240823-数据模型概要设计/微信图片_20240823150328.jpg",
+    "spacedev/分词/glossary.xlsx",
+    "spacedev/分词/word.xlsx",
+    "spacedev/分词/print(1).py",
+    "spacedev/分词/excel3.xlsx",
+    "spacedev/分词/excel2.xlsx",
+    "spacedev/分词/excel1.xlsx",
+    "spacedev/分词",
+    "spacedev/verify_zipfile/data/outtime/Snipaste_2024-09-05_18-22-38.png",
+    "spacedev/verify_zipfile/data/outtime/Snipaste_2024-09-05_18-31-25.png",
+    "spacedev/verify_zipfile/data/outtime",
+    "spacedev/verify_zipfile/data/temp.csv.ok",
+    "04_项目中信登/dev_doc/excel.md",
+    "04_项目中信登/my_doc/dsp_doc/01-项目管理/综合管理.md",
+    "04_项目中信登/my_doc/03_模型设计.md",
+    "04_项目中信登/my_doc/02_架构.md",
+    "04_项目中信登/my_doc/01_需求.md",
+    "04_项目中信登/my_doc/00_内容.md",
+    "04_项目中信登/my_doc/attachments/微信图片_20240904140149.png",
+    "微信图片_20240904140149.png",
+    "中信登daily/2024-09-09.md",
+    "04_项目中信登/mydoc/微信图片_20240904140149.png",
+    "01_基础/03_inceptor/Inceptor语法.md",
+    "中信登daily/2024-09-06.md",
+    "03_项目/5.民生银行回单系统/03_worknote/07_开发工具-常用表-自动化运维.md",
+    "01_基础/01.Python基础/代码/day07-代码/图片1[副本].jpg",
+    "01_基础/01.Python基础/代码/day07-代码/图片1.jpg",
+    "01_基础/02.python高级/代码/day09/web/source/load/6.jpg",
+    "01_基础/02.python高级/代码/day09/web/source/load/5.jpg",
+    "未命名.canvas"
+  ]
+}
